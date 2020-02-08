@@ -187,4 +187,14 @@
       color: black;
   }
   
+/* seccion de nosotros abajo del hero en inicio */
 
+.icono-actualidad {
+  font-size: 60px;
+  color: #FFD700;
+}
+
+.boton-ancho {
+  width: 30% !important;
+
+}

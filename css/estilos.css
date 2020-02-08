@@ -2,7 +2,7 @@
 /* menu */
 .navbar {
   padding: 0 1em !important;
-  background-color: rgba(0, 0, 0, .4);
+  background-color: rgba(0, 0, 0, .2);
   z-index: 1;
 }
 
@@ -198,3 +198,34 @@
   width: 30% !important;
 
 }
+
+
+
+
+
+/* pagina de servicios */
+
+.h1-servicios {
+  z-index: 2;
+  /* font-size: 60px; */
+  color: white;
+}
+
+@media screen and (min-width: 0px) { 
+  .h1-servicios {
+    font-size: 60px;
+  }
+
+}
+
+@media screen and (min-width: 768px) { 
+  .h1-servicios {
+    font-size: 120px;
+  }
+
+}
+
+.bg-dark {
+  transition: 0.4s;
+}
+
